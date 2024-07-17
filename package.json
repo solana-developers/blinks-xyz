@@ -1,5 +1,7 @@
 {
   "name": "blinks-xyz",
+  "author": "Solana Maintainers <maintainers@solana.foundation>",
+  "repository": "https://github.com/solana-developers/blinks-xyz",
   "version": "0.1.0",
   "private": true,
   "scripts": {
